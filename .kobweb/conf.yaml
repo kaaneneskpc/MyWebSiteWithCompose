@@ -1,0 +1,14 @@
+site:
+  title: "MyWebsite"
+
+server:
+  files:
+    dev:
+      contentRoot: "build/processedResources/js/main/public"
+      script: "build/dist/js/developmentExecutable/mywebsite.js"
+      api: "build/libs/mywebsite.jar"
+    prod:
+      script: "build/dist/js/productionExecutable/mywebsite.js"
+      siteRoot: ".kobweb/site"
+
+  port: 8080

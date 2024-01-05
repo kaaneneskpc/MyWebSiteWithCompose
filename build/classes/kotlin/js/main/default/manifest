@@ -1,0 +1,10 @@
+abi_version=1.8.0
+builtins_platform=JS
+compiler_version=1.9.21
+depends=com.varabyte.kobweb\:kobweb-silk com.varabyte.kobweb\:kobweb-core com.varabyte.kobwebx\:silk-icons-fa com.varabyte.kobweb\:silk-widgets-kobweb com.varabyte.kobweb\:silk-widgets com.varabyte.kobweb\:silk-foundation com.varabyte.kobweb\:kobweb-compose com.varabyte.kobweb\:compose-html-ext org.jetbrains.kotlin\:kotlin-dom-api-compat org.jetbrains.compose.html\:html-core org.jetbrains.compose.html\:internal-html-core-runtime org.jetbrains.compose.runtime\:runtime org.jetbrains.kotlinx\:kotlinx-coroutines-core org.jetbrains.kotlinx\:atomicfu kotlin org.jetbrains.kotlin\:kotlinx-atomicfu-runtime
+ir_signature_versions=1,2
+jsOutputName=mywebsite
+metadata_version=1.4.1
+serializedIrFileFingerprints=2fi6bf28gaumu.wglcredybcsa 5rfjqgldibwo.yuhrf0jt6elo 2xqjuww07llvz.yhmcaabid361 3kxmanerh9oen.1imw5fqwjof01 29uluupo7us4b.37e3lp6dyshwk 1c6j89ifkwyll.1kygnei58e1hh 1f367ix75te0q.1up4e1ftf12pz 8os1wcn47xoh.23ykhvs9hd9k4 34lx2w8jw0jxf.2t8kz6dy87o3g 1nnnaqr9m2ieg.jjs25fifcb49 vzsdnk8jo72j.3w0m6jb1cvezq
+serializedKlibFingerprint=6nbvivu5l0n1.3afjssgem3tcd
+unique_name=com.example.mywebsite\:site
